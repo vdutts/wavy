@@ -1,6 +1,6 @@
 # wavy
 
-An interactive wave field visualization built with Next.js and Canvas. Move your mouse to create mesmerizing wave patterns and explore different presets.
+An interactive wave fifxeld visualization built with Next.js and Canvas. Move your mouse to create mesmerizing wave patterns and explore different presets.
 
 ![wavy Banner](public/github-banner.jpg)
 
